@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+&.dropdownselect {
+    background-color: #eff3f6;
+
+    .section-checkbox {
+
+        .inner-off {
+            padding-top: 10px;
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 14px;
+            font-weight: 400;
+            color: #354052;
+        }
+
+        .inner-on {
+            padding-top: 10px;
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            color: #354052;
+        }
+
+
+        .text {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #7f8fa4;
+            padding-left: 19px;
+            padding-bottom: 23px;
+        }
+
+        .row {
+            padding-top: 95px;
+        }
+
+    }
+
+    .section-dropdown {
+    
+
+        img.logo {
+            padding-top: 8px;
+
+
+        }
+
+        .btn-secondary {
+            color: black;
+            background-color: #eff3f6;
+            border-color: #eff3f6;
+
+        }
+
+
+        label {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #7f8fa4;
+            margin: 8px;
+            padding-top: 20px;
+        }
+    }
+
+    .section-select {
+        background-color: #eff3f6;
+        padding-left: 8px;
+        padding-bottom: 60px;
+
+        label {
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            color: #7f8fa4;
+            margin: 0px;
+        }
+
+        .row {
+            padding-top: 75px;
+        }
+
+        .subtitle {
+            margin-top: 5px;
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 12px;
+            font-weight: 400;
+            color: #7f8fa4;
+        }
+
+        .title {
+            padding-top: 85px;
+            color: #354052;
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+            line-height: 27px;
+            letter-spacing: 0px;
+        }
+    }
+}

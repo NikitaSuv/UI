@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+
+&.tabs {
+    background-color: #eff3f6; 
+    img.logo {
+        padding-left: 30px;
+    }
+  
+  
+    .wrapper {
+        padding-bottom: 12px;
+        padding-left: 0px;
+        padding-right: 10px;
+    }
+    .section-headline {
+        padding-left: 8px;         
+       
+
+      
+
+        .subtitle {
+            padding-bottom: 75px;
+            color: #7f8fa4;
+            font-family: "Source Sans Pro";
+            font-size: 12px;
+            font-weight: 400;
+        }
+
+        .title {
+            color: #354052;
+            font-family: "Source Sans Pro - Semibold";
+            font-size: 20px;
+            font-weight: 400;
+        }
+    }
+}
